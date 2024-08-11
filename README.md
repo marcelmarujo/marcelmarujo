@@ -1,17 +1,15 @@
-<h1 align="left">Olá, pessoal! 👋</h1>
+### Olá, pessoal! 👋
 
-<p align="left">Meu nome é Marcel Marujo e eu sou Engenheiro de Dados/Analista de BI.<br>Moro no Rio de Janeiro - Brasil</p>
+<p align="left">Sou o Marcel Marujo. 👨‍💻 Engenheiro de Dados/Analista de BI. 📍Rio de Janeiro - Brasil
 
-### ✨ Formação e Experiência
+
 - **Engenheiro** formado pela UFF, com Pós Graduação em BI.
-- Experiência em **Engenharia de Dados** e **Business Intelligence**.
+- **6+ anos** de experiência em **Engenharia de Dados** e **Business Intelligence**.
 - Atualmente trabalhando como **Analytics Engineer** no setor financeiro.
 
-###
-## <span style="font-size: 12px;">⤵</span> Me encontre aqui  
 <div align="left">
   <a href="https://www.linkedin.com/in/marcel-marujo/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
@@ -22,13 +20,7 @@
 - **Experiência:** Projetos de dados "End-To-End" nos setores de Consultoria, Mercado Financeiro, Saneamento e Logística. 
 
 ### 🎯 Certificações
-- **DP-600:** Microsoft Fabric Analytics Engineer
-- **PL-300:** Microsoft Data Analyst Associate
-- **Astronomer:** Airflow Fundamentals
-- **AZ-104:** Microsoft Azure Administrator Associate
-- **DP-900:** Azure Data Fundamentals
-- **CLF-01:** AWS Cloud Practitioner
-- **Tableau Desktop Specialist**
+**DP-600:** Microsoft Fabric Analytics Engineer | **PL-300:** Microsoft Data Analyst Associate | **Astronomer:** Airflow Fundamentals | **CLF-01:** AWS Cloud Practitioner | **AZ-104:** Microsoft Azure Administrator Associate | **Tableau** Desktop Specialist | **DP-900:** Azure Data Fundamentals
 
 ### 📚 Idiomas
 - **Inglês:** Avançado (Nível C1/C2, EFSET)
