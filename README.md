@@ -1,7 +1,7 @@
-### Olá, pessoal! 👋
+<!-- ### Olá, pessoal! 👋 
 
-<p align="left">Sou o Marcel Marujo. 👨‍💻 Engenheiro de Dados/Analista de BI. 📍Rio de Janeiro - Brasil
-
+<p align="left">  --> 
+### 👨‍💻 Marcel Marujo | Engenheiro de Dados/Analista de BI | 📍Rio de Janeiro - Brasil
 
 - **Engenheiro** formado pela UFF, com Pós Graduação em BI.
 - **6+ anos** de experiência em **Engenharia de Dados** e **Business Intelligence**.
@@ -15,7 +15,7 @@
 
 ###
 
-## 📚 Ferramentas e Experiência
+### 📚 Ferramentas e Experiência
 - **Ferramentas:** Python, SQL, Databricks, Power BI, Apache Spark, Azure, Tableau, Airflow, DBT, Kubernetes.
 - **Experiência:** Projetos de dados "End-To-End" nos setores de Consultoria, Mercado Financeiro, Saneamento e Logística. 
 
@@ -25,7 +25,7 @@
 ### 📚 Idiomas
 - **Inglês:** Avançado (Nível C1/C2, EFSET)
 
-## I code with
+### I code with
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
