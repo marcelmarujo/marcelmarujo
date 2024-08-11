@@ -13,16 +13,14 @@
   </a>
 </div>
 
-###
-
-### 📚 Ferramentas e Experiência
+#### **📚 Ferramentas e Experiência**
 - **Ferramentas:** Python, SQL, Databricks, Power BI, Apache Spark, Azure, Tableau, Airflow, DBT, Kubernetes.
 - **Experiência:** Projetos de dados "End-To-End" nos setores de Consultoria, Mercado Financeiro, Saneamento e Logística. 
 
-### 🎯 Certificações
+#### **🎯 Certificações**
 **DP-600:** Microsoft Fabric Analytics Engineer | **PL-300:** Microsoft Data Analyst Associate | **Astronomer:** Airflow Fundamentals | **CLF-01:** AWS Cloud Practitioner | **AZ-104:** Azure Administrator Associate | **Tableau** Desktop Specialist | **DP-900:** Azure Data Fundamentals
 
-### 📚 Idiomas
+#### **📚 Idiomas**
 - **Inglês:** Avançado (Nível C1/C2, EFSET)
 
 ### I code with
