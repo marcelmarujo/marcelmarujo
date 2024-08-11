@@ -20,7 +20,7 @@
 - **Experiência:** Projetos de dados "End-To-End" nos setores de Consultoria, Mercado Financeiro, Saneamento e Logística. 
 
 ### 🎯 Certificações
-**DP-600:** Microsoft Fabric Analytics Engineer | **PL-300:** Microsoft Data Analyst Associate | **Astronomer:** Airflow Fundamentals | **CLF-01:** AWS Cloud Practitioner | **AZ-104:** Microsoft Azure Administrator Associate | **Tableau** Desktop Specialist | **DP-900:** Azure Data Fundamentals
+**DP-600:** Azure Fabric Analytics Engineer | **PL-300:** Microsoft Data Analyst Associate | **Astronomer:** Airflow Fundamentals | **CLF-01:** AWS Cloud Practitioner | **AZ-104:** Azure Administrator Associate | **Tableau** Desktop Specialist | **DP-900:** Azure Data Fundamentals
 
 ### 📚 Idiomas
 - **Inglês:** Avançado (Nível C1/C2, EFSET)
