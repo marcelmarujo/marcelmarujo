@@ -2,10 +2,8 @@
 
 <p align="left">Meu nome é Marcel Marujo e eu sou Engenheiro de Dados/Analista de BI.<br>Moro no Rio de Janeiro - Brasil</p>
 
-## Sobre mim
-
 ### ✨ Formação e Experiência
-- **Engenheiro** formado pela UFF, com Pós Graduação em BI
+- **Engenheiro** formado pela UFF, com Pós Graduação em BI.
 - Experiência em **Engenharia de Dados** e **Business Intelligence**.
 - Atualmente trabalhando como **Analytics Engineer** no setor financeiro.
 
@@ -19,9 +17,9 @@
 
 ###
 
-### 📚 Ferramentas e Experiência
+## 📚 Ferramentas e Experiência
 - **Ferramentas:** Python, SQL, Databricks, Power BI, Apache Spark, Azure, Tableau, Airflow, DBT, Kubernetes.
-- **Experiência:"" Projetos de dados End-To-End nos setores de Consultoria, Mercado Financeiro, Saneamento e Logística. 
+- **Experiência:** Projetos de dados "End-To-End" nos setores de Consultoria, Mercado Financeiro, Saneamento e Logística. 
 
 ### 🎯 Certificações
 - **DP-600:** Microsoft Fabric Analytics Engineer
@@ -31,8 +29,6 @@
 - **DP-900:** Azure Data Fundamentals
 - **CLF-01:** AWS Cloud Practitioner
 - **Tableau Desktop Specialist**
-- **Databricks Lakehouse Fundamentals**
-- **Alteryx Fundamentals Microcredential**
 
 ### 📚 Idiomas
 - **Inglês:** Avançado (Nível C1/C2, EFSET)
