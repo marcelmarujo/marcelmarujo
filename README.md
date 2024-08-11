@@ -1,19 +1,29 @@
 <h1 align="left">Olá, pessoal! 👋</h1>
 
-<p align="left">Meu nome é Marcel Marujo e eu sou um Engenheiro de Dados/Analista de BI.<br>Moro no Rio de Janeiro - Brasil</p>
+<p align="left">Meu nome é Marcel Marujo e eu sou Engenheiro de Dados/Analista de BI.<br>Moro no Rio de Janeiro - Brasil</p>
 
 ## Sobre mim
 
-✨### Formação e Experiência
-- **Engenheiro** formado pela UFF.
-- Experiência em **Business Intelligence** e **Engenharia de Dados**.
-- Atualmente trabalhando como **Engenheiro de Dados e BI** no setor financeiro.
+### ✨ Formação e Experiência
+- **Engenheiro** formado pela UFF, com Pós Graduação em BI
+- Experiência em **Engenharia de Dados** e **Business Intelligence**.
+- Atualmente trabalhando como **Analytics Engineer** no setor financeiro.
 
-📚### Ferramentas e Experiência
+###
+## <span style="font-size: 12px;">⤵</span> Me encontre aqui  
+<div align="left">
+  <a href="https://www.linkedin.com/in/marcel-marujo/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+### 📚 Ferramentas e Experiência
 - **Ferramentas:** Python, SQL, Databricks, Power BI, Apache Spark, Azure, Tableau, Airflow, DBT, Kubernetes.
 - **Experiência:"" Projetos de dados End-To-End nos setores de Consultoria, Mercado Financeiro, Saneamento e Logística. 
 
-🎯### Certificações
+### 🎯 Certificações
 - **DP-600:** Microsoft Fabric Analytics Engineer
 - **PL-300:** Microsoft Data Analyst Associate
 - **Astronomer:** Airflow Fundamentals
@@ -24,7 +34,7 @@
 - **Databricks Lakehouse Fundamentals**
 - **Alteryx Fundamentals Microcredential**
 
-📚### Idiomas
+### 📚 Idiomas
 - **Inglês:** Avançado (Nível C1/C2, EFSET)
 
 ## I code with
