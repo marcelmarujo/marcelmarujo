@@ -5,7 +5,7 @@
 
 - **Engenheiro** formado pela UFF, com Pós Graduação em BI. Experiência de **6 anos** com **Engenharia de Dados** e **Business Intelligence**. Atualmente trabalhando como **Analytics Engineer** no setor financeiro.
 - **Ferramentas:** Python, SQL, Databricks, Power BI, Apache Spark, Azure, Tableau, Airflow, DBT, Kubernetes.
-- **Certificações:** **DP-600:** Microsoft Fabric Analytics Engineer | **PL-300:** Microsoft Data Analyst Associate | **Astronomer:** Airflow Fundamentals | **CLF-01:** AWS Cloud Practitioner | **AZ-104:** Azure Administrator Associate | **Tableau** Desktop Specialist | **DP-900:** Azure Data Fundamentals
+- **Certificações:** **DP-600:** Microsoft Fabric Analytics Engineer | **PL-300:** Microsoft Data Analyst Associate | **Astronomer:** Airflow Fundamentals | **CLF-01:** AWS Cloud Practitioner | **AZ-104:** Azure Administrator Associate | **Tableau** Desktop Specialist
 - **Inglês:** Avançado (Nível C1/C2, EFSET)
 
 <div align="left">
