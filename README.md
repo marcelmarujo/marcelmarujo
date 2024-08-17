@@ -3,25 +3,16 @@
 <p align="left">  --> 
 ### 👨‍💻 Marcel Marujo | Engenheiro de Dados/Analista de BI | 📍Rio de Janeiro - Brasil
 
-- **Engenheiro** formado pela UFF, com Pós Graduação em BI.
-- **6+ anos** de experiência em **Engenharia de Dados** e **Business Intelligence**.
-- Atualmente trabalhando como **Analytics Engineer** no setor financeiro.
+- **Engenheiro** formado pela UFF, com Pós Graduação em BI. Experiência de **6 anos** com **Engenharia de Dados** e **Business Intelligence**. Atualmente trabalhando como **Analytics Engineer** no setor financeiro.
+- **Ferramentas:** Python, SQL, Databricks, Power BI, Apache Spark, Azure, Tableau, Airflow, DBT, Kubernetes.
+- **Certificações:** **DP-600:** Microsoft Fabric Analytics Engineer | **PL-300:** Microsoft Data Analyst Associate | **Astronomer:** Airflow Fundamentals | **CLF-01:** AWS Cloud Practitioner | **AZ-104:** Azure Administrator Associate | **Tableau** Desktop Specialist | **DP-900:** Azure Data Fundamentals
+- **Inglês:** Avançado (Nível C1/C2, EFSET)
 
 <div align="left">
   <a href="https://www.linkedin.com/in/marcel-marujo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-#### **📚 Ferramentas e Experiência**
-- **Ferramentas:** Python, SQL, Databricks, Power BI, Apache Spark, Azure, Tableau, Airflow, DBT, Kubernetes.
-- **Experiência:** Projetos de dados "End-To-End" nos setores de Consultoria, Mercado Financeiro, Saneamento e Logística. 
-
-#### **🎯 Certificações**
-**DP-600:** Microsoft Fabric Analytics Engineer | **PL-300:** Microsoft Data Analyst Associate | **Astronomer:** Airflow Fundamentals | **CLF-01:** AWS Cloud Practitioner | **AZ-104:** Azure Administrator Associate | **Tableau** Desktop Specialist | **DP-900:** Azure Data Fundamentals
-
-#### **📚 Idiomas**
-- **Inglês:** Avançado (Nível C1/C2, EFSET)
 
 ### I code with
 
