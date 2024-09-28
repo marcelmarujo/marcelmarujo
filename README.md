@@ -14,8 +14,10 @@
   </a>
 </div>
 
-#### I code with
-<div align="left">
+<div align="center">
+
+##### I code with
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" alt="jupyter logo" />
@@ -37,6 +39,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
 </div>
 
+###
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelmarujo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=algolia&hide_border=false" height="135" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=marcelmarujo&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5" height="135" alt="streak graph"  />
+</div>
+
+###
 
 <!---
 marcelmarujo/marcelmarujo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
